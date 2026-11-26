@@ -3,13 +3,14 @@
 Usage: python tools/build.py [LOCALE] [LANGUAGE_NAME]
 
 The game refuses mods that override keys of a built-in language, so the translation is added as a
-NEW language. LOCALE must therefore be a locale code the game does not ship; "tt" is used as a
-neutral carrier code (the game's fonts fall back to their Thai face for Thai characters).
+NEW language. LOCALE must be a bare language code that the engine accepts (its built-in list) and
+that no built-in language of the game uses; otherwise the game falls back to English and reloads
+the menu forever. "mt" is used as a neutral carrier code (the fonts fall back to their Thai face).
 """
 import json, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LOCALE = sys.argv[1] if len(sys.argv) > 1 else "tt"
+LOCALE = sys.argv[1] if len(sys.argv) > 1 else "mt"
 NAME = sys.argv[2] if len(sys.argv) > 2 else "ไทย (NeedSleep)"
 
 messages = json.load(open(os.path.join(ROOT, "translation", "th.json"), encoding="utf-8"))

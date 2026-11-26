@@ -3,7 +3,7 @@
     "add": [
       {
         "name": "ไทย (NeedSleep)",
-        "locale": "tt",
+        "locale": "mt",
         "messages": {
           "BUTTON_ABANDON": "ทิ้ง",
           "BUTTON_ACCEPT": "ยอมรับ",
