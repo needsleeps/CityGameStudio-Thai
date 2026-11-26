@@ -373,7 +373,7 @@
 | Mid | กลาง | |
 | High | สูง | |
 | Money / Cash | เงิน | "Available cash" = เงินสดคงเหลือ |
-| Currency | สกุลเงิน | "Unlimited currency" = เงินไม่จำกัด |
+| Currency | เงิน | In-game money (FR "Argent"); "Unlimited currency" = เงินไม่จำกัด |
 | Income | รายรับ | |
 | Revenue | รายได้ | |
 | Estimated revenue | รายได้โดยประมาณ | LABEL_ESTIMATED_INCOME |
@@ -496,7 +496,7 @@
 | Tower | ตึกสูง | |
 | Road / Street | ถนน | |
 | Square | จัตุรัส | |
-| Grass | สนามหญ้า | |
+| Grass | ที่ดิน | Empty building plot (FR "Terrain") |
 | Area / Surface / Square footage | พื้นที่ | |
 | City map | แผนที่เมือง | |
 | Map size | ขนาดแผนที่ | |
@@ -565,7 +565,7 @@
 | EXTREME | สุดขีด | Mega DLC map size |
 | Ultimate Size | ขนาดอัลติเมต | Mega DLC map size |
 | New game | เริ่มเกมใหม่ | BUTTON_NEW_GAME: start a new playthrough |
-| New game (create a game project) | สร้างเกมใหม่ | NEW_GAME, LABEL_NEW_GAME, TOOLTIP_CREATE_GAME |
+| New game (create a game project) | สร้างเกมใหม่ | NEW_GAME, TOOLTIP_CREATE_GAME. LABEL_NEW_GAME and BUTTON_NEW_GAME start a new save = เริ่มเกมใหม่ |
 | Load game | โหลดเกม | |
 | Main menu | เมนูหลัก | |
 | Options | ตัวเลือก | |
