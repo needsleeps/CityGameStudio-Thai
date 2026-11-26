@@ -12,6 +12,15 @@
 [b]วิธีใช้[/b]
 เปิดใช้ม็อดในเมนู Mods แล้วเลือกภาษา "ไทย (NeedSleep)" ในเมนูภาษา
 
+[b]ข้อควรรู้[/b]
+[list]
+[*]ต้องเลือกภาษา "ไทย (NeedSleep)" ใหม่ทุกครั้งที่เปิดเกม เพราะเกมโหลดม็อดหลังสร้างเมนูภาษา และจะเด้งไปภาษา Deutsch ก่อน
+[*]หน้าต่างตั้งชื่อเซฟยังเป็นภาษาเยอรมัน เป็นข้อจำกัดของตัวเกม ปุ่มซ้ายคือเซฟ ปุ่มขวาคือยกเลิก
+[*]ชื่อแบรนด์ ชื่อเครื่อง และตัวย่ออย่าง RPG/FPS คงเป็นภาษาอังกฤษ
+[/list]
+
+ซอร์สและแจ้งคำแปลผิด: https://github.com/needsleeps/CityGameStudio-Thai
+
 [hr][/hr]
 
 A complete, freshly written Thai translation for City Game Studio. Enable the mod, then pick "ไทย (NeedSleep)" in the language menu.
