@@ -1,6 +1,6 @@
 # City Game Studio — ภาษาไทย (Thai Translation)
 
-ม็อดแปลภาษาไทยฉบับแปลใหม่ทั้งเกมสำหรับ [City Game Studio](https://store.steampowered.com/app/726840/) แปลจากต้นฉบับภาษาอังกฤษ 2,061 ข้อความ ครอบคลุมเมนู ปุ่ม คำอธิบาย บทช่วยสอน อีเวนต์ รีวิว และ achievement
+ม็อดแปลภาษาไทยฉบับแปลใหม่ทั้งเกมสำหรับ [City Game Studio](https://store.steampowered.com/app/726840/) แปลจากต้นฉบับภาษาอังกฤษ 2,062 ข้อความ ครอบคลุมเมนู ปุ่ม คำอธิบาย บทช่วยสอน อีเวนต์ รีวิว และ achievement
 
 > งานแปลแฟนเมด ไม่ใช่ของทางการ ไม่มีไฟล์เกมอยู่ใน repo นี้
 
@@ -24,7 +24,6 @@
 
 ## ข้อจำกัดที่รู้อยู่
 
-- ข้อความแจ้งยกเลิกงานประกาศรางวัลเกมแห่งปี 1 ข้อความ ยังเป็นภาษาอังกฤษ เพราะหาชื่อคีย์ไม่พบ
 - ชื่อแบรนด์ ชื่อนิตยสาร ชื่อเครื่อง และตัวย่ออย่าง RPG/FPS คงเป็นภาษาอังกฤษตามต้นฉบับ
 - ถ้าเกมอัปเดตแล้วมีข้อความใหม่ ข้อความนั้นจะแสดงเป็นภาษาอังกฤษจนกว่าม็อดจะตามทัน
 
@@ -62,7 +61,7 @@
 
 ## English
 
-A complete, freshly written Thai translation mod for City Game Studio (2,061 strings). It is added as a new language, "ไทย (NeedSleep)", because the game does not let mods override strings of a built-in language. Edit `translation/th.json`, then run `python tools/build.py`.
+A complete, freshly written Thai translation mod for City Game Studio (2,062 strings). It is added as a new language, "ไทย (NeedSleep)", because the game does not let mods override strings of a built-in language. Edit `translation/th.json`, then run `python tools/build.py`.
 
 ## สัญญาอนุญาต
 
